@@ -1,0 +1,26 @@
+{
+  "name": "hetao-cli",
+  "version": "1.0.0",
+  "description": "",
+  "author": "zhan <846184637@qq.com>",
+  "bin": {
+    "hetao": "packages/core/bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:anitameng/hetao-cli.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "lerna"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
