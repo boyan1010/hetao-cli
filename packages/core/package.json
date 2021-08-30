@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,8 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@hetao-cli/utils": "file:../utils",
+    "@hetao-cli/utils": "^0.0.1",
     "semver": "^7.3.5"
-  }
+  },
+  "gitHead": "7c3be73faf8cad1663eac98d896e3bda62f5463f"
 }
