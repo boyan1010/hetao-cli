@@ -1,5 +1,5 @@
 node_modules
 .vscode
 package-lock.json
-packages/**/node_modules
-packages/**/package-lock.json
+core/**/node_modules
+utils/**/package-lock.json

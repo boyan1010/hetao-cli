@@ -1,6 +1,7 @@
 {
   "packages": [
-    "packages/*"
+    "core/*",
+    "utils/*"
   ],
   "command": {
     "bootstrap": {

@@ -11,7 +11,8 @@
     "test": "__tests__"
   },
   "files": [
-    "lib"
+    "lib",
+    "bin"
   ],
   "publishConfig": {
     "access": "public"
@@ -25,6 +26,7 @@
   },
   "dependencies": {
     "@hetao-cli/utils": "^0.0.3",
+    "import-local": "^3.0.2",
     "semver": "^7.3.5"
   },
   "gitHead": "7c3be73faf8cad1663eac98d896e3bda62f5463f"
